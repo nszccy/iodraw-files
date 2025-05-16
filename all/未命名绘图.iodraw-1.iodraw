@@ -37,13 +37,13 @@
         <mxCell id="W5puac4vYyRoyKeaP1Aw-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="W5puac4vYyRoyKeaP1Aw-9" target="W5puac4vYyRoyKeaP1Aw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W5puac4vYyRoyKeaP1Aw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W5puac4vYyRoyKeaP1Aw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="573" width="76" height="61" as="geometry" />
         </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-42" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="W5puac4vYyRoyKeaP1Aw-10" target="W5puac4vYyRoyKeaP1Aw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W5puac4vYyRoyKeaP1Aw-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W5puac4vYyRoyKeaP1Aw-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="666.5" width="76" height="61" as="geometry" />
         </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W5puac4vYyRoyKeaP1Aw-11" target="W5puac4vYyRoyKeaP1Aw-12">
