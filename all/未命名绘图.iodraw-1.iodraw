@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发布&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="594" y="620.5" width="76" height="61" as="geometry" />
+          <mxGeometry x="595" y="627" width="76" height="61" as="geometry" />
         </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;课程信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="543" width="92" height="42" as="geometry" />
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-77" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="607.0031965362398" y="798.0015369605321" as="geometry">
+          <mxGeometry x="614.0031965362398" y="801.0015369605321" as="geometry">
             <mxPoint x="-50" y="-140" as="offset" />
           </mxGeometry>
         </mxCell>
