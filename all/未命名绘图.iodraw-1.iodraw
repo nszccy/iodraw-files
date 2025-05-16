@@ -272,8 +272,11 @@
             <mxPoint x="26" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W5puac4vYyRoyKeaP1Aw-86" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="W5puac4vYyRoyKeaP1Aw-85" target="W5puac4vYyRoyKeaP1Aw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W5puac4vYyRoyKeaP1Aw-85" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发布&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="604" y="630.5" width="76" height="61" as="geometry" />
+          <mxGeometry x="508" y="576" width="76" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
