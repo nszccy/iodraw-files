@@ -13,8 +13,11 @@
         <mxCell id="4_b_ruZs0lo_fA30LVZ1-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="4_b_ruZs0lo_fA30LVZ1-2" target="4_b_ruZs0lo_fA30LVZ1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4_b_ruZs0lo_fA30LVZ1-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="4_b_ruZs0lo_fA30LVZ1-2" target="4_b_ruZs0lo_fA30LVZ1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4_b_ruZs0lo_fA30LVZ1-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="268" width="47" height="22" as="geometry" />
+          <mxGeometry x="231" y="267" width="47" height="22" as="geometry" />
         </mxCell>
         <mxCell id="4_b_ruZs0lo_fA30LVZ1-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581" y="318" width="47" height="22" as="geometry" />
