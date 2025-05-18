@@ -25,7 +25,7 @@
         <mxCell id="4_b_ruZs0lo_fA30LVZ1-9" value="用户姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="340" width="64" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="4_b_ruZs0lo_fA30LVZ1-10" value="用户姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_b_ruZs0lo_fA30LVZ1-10" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94" y="338" width="64" height="28" as="geometry" />
         </mxCell>
       </root>
