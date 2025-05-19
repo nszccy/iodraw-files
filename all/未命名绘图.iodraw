@@ -259,8 +259,14 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-112" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="465" width="52" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-124" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-113" target="WKFvyvlyDON9DCtMppgl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-113" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;用户姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="418" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-123" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-114" target="WKFvyvlyDON9DCtMppgl-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-114" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程价格&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="616" y="393.5" width="52" height="19" as="geometry" />
