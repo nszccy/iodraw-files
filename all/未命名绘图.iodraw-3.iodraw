@@ -19,8 +19,8 @@
         <mxCell id="X5BtVvWQ_pgZCx-xOWT2-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;修改密码页面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="352" width="143" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="X5BtVvWQ_pgZCx-xOWT2-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;判断原密码、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;新密码是否符合&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="259" y="428" width="323" height="129" as="geometry" />
+        <mxCell id="X5BtVvWQ_pgZCx-xOWT2-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;判断原密码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;新密码是否符合&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="417" width="265" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
