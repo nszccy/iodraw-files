@@ -78,6 +78,11 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-147" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-7" target="WKFvyvlyDON9DCtMppgl-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-149" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WKFvyvlyDON9DCtMppgl-147">
+          <mxGeometry x="-0.1217" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="408" width="43" height="16" as="geometry" />
         </mxCell>
