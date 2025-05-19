@@ -8,10 +8,10 @@
           <mxGeometry x="185" y="300" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="237" width="43" height="16" as="geometry" />
+          <mxGeometry x="393" y="310" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367" y="291" width="43" height="16" as="geometry" />
+          <mxGeometry x="328" y="218" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;公告信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243" y="337" width="43" height="16" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="443" y="357" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="367" width="43" height="16" as="geometry" />
+          <mxGeometry x="443" y="216" width="43" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
