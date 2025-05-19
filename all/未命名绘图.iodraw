@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ca0-Ttw9Ox4ZSbsHGYTh">
-    <mxGraphModel dx="719" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,8 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;教师&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="411" width="43" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-56" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-3" target="WKFvyvlyDON9DCtMppgl-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-57" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-3" target="WKFvyvlyDON9DCtMppgl-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="326" width="43" height="16" as="geometry" />
+          <mxGeometry x="255" y="330" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="314" width="43" height="16" as="geometry" />
