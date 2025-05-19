@@ -107,16 +107,14 @@
             <mxPoint x="370.655172413793" y="262.8275819975754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-54" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437.9655004040949" y="221.99999789533945" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-47" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;公告图&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="236" width="52" height="19" as="geometry" />
+          <mxGeometry x="414" y="203" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-55" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-48" target="WKFvyvlyDON9DCtMppgl-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-48" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="263" width="52" height="19" as="geometry" />
+          <mxGeometry x="418" y="232" width="52" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
