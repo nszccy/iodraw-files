@@ -248,7 +248,16 @@
           <mxGeometry x="406" y="254" width="34" height="19" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-110" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="285" width="52" height="19" as="geometry" />
+          <mxGeometry x="603" y="346" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-111" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="411" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-112" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="468" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-113" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="384" width="52" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
