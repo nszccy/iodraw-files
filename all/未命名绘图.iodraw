@@ -393,7 +393,7 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-161" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="524" width="52" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-162" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WKFvyvlyDON9DCtMppgl-162" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;专业&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452" y="480" width="52" height="19" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-163" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程价格&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -403,7 +403,7 @@
           <mxGeometry x="438" y="502" width="52" height="19" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-165" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="459" width="52" height="19" as="geometry" />
+          <mxGeometry x="475" y="455" width="52" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
