@@ -55,8 +55,8 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;公告信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="201" width="43" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;报名信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518" y="392" width="43" height="16" as="geometry" />
+        <mxCell id="WKFvyvlyDON9DCtMppgl-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程报名&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="395" width="43" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="405" width="43" height="16" as="geometry" />
