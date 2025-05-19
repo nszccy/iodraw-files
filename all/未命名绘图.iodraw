@@ -101,7 +101,7 @@
         <mxCell id="WKFvyvlyDON9DCtMppgl-168" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-7" target="WKFvyvlyDON9DCtMppgl-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKFvyvlyDON9DCtMppgl-169" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-7" target="WKFvyvlyDON9DCtMppgl-162">
+        <mxCell id="WKFvyvlyDON9DCtMppgl-169" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-7" target="WKFvyvlyDON9DCtMppgl-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;课程信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-159" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;教师姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="499" width="52" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="WKFvyvlyDON9DCtMppgl-170" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="WKFvyvlyDON9DCtMppgl-160" target="WKFvyvlyDON9DCtMppgl-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKFvyvlyDON9DCtMppgl-160" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;开课时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406" y="530" width="52" height="19" as="geometry" />
