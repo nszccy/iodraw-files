@@ -25,7 +25,7 @@
         <mxCell id="pbW0aKXd6skdXKfREafS-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;发布课程&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="283" width="99" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="pbW0aKXd6skdXKfREafS-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;课程信息管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbW0aKXd6skdXKfREafS-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;修改课程信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="325" width="99" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pbW0aKXd6skdXKfREafS-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理培训信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
