@@ -16,6 +16,9 @@
         <mxCell id="pbW0aKXd6skdXKfREafS-6" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;查看报名信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="453" width="99" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="pbW0aKXd6skdXKfREafS-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报名课程&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="402" width="99" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
