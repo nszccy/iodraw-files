@@ -40,7 +40,7 @@
         <mxCell id="pbW0aKXd6skdXKfREafS-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;查看报名信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="367" width="99" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="pbW0aKXd6skdXKfREafS-13" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理报名信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbW0aKXd6skdXKfREafS-13" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报名信息管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="409" width="99" height="34" as="geometry" />
         </mxCell>
       </root>
