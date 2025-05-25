@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4GjTdO2fhk5e-sgxe1p0-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;管理员&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="4GjTdO2fhk5e-sgxe1p0-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理员&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="377" y="412" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GjTdO2fhk5e-sgxe1p0-7" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="4GjTdO2fhk5e-sgxe1p0-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="366" width="113" height="39" as="geometry" />
         </mxCell>
       </root>
