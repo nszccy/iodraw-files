@@ -25,10 +25,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X5BtVvWQ_pgZCx-xOWT2-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;是否修改密码&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="246.37" y="69" width="201.25" height="63" as="geometry" />
+          <mxGeometry x="246.39000000000001" y="55" width="201.25" height="63" as="geometry" />
         </mxCell>
         <mxCell id="X5BtVvWQ_pgZCx-xOWT2-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;修改密码页面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279.49" y="180" width="135.01" height="35" as="geometry" />
+          <mxGeometry x="279.51" y="166" width="135.01" height="35" as="geometry" />
         </mxCell>
         <mxCell id="a-ytSjqOgZCh7WndVegK-2" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="a-ytSjqOgZCh7WndVegK-1" target="X5BtVvWQ_pgZCx-xOWT2-1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="301" y="-103" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a-ytSjqOgZCh7WndVegK-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;判断原密码、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;新密码是否符合&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233.51" y="239" width="227" height="106" as="geometry" />
+          <mxGeometry x="233.52" y="216" width="227" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
