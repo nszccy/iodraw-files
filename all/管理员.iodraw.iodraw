@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ux_ABOHVtF7qhpY4Urs0">
-    <mxGraphModel dx="691" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="4GjTdO2fhk5e-sgxe1p0-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;课程信息管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="477" width="105" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4GjTdO2fhk5e-sgxe1p0-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;我的收藏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="4GjTdO2fhk5e-sgxe1p0-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;报名信息管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="530" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4GjTdO2fhk5e-sgxe1p0-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;培训信息管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
