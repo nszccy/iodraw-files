@@ -11,7 +11,7 @@
           <mxGeometry x="437.5" y="303" width="98" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4GjTdO2fhk5e-sgxe1p0-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;container=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="473" y="366" width="348" height="71" as="geometry">
+          <mxGeometry x="473" y="366" width="165" height="71" as="geometry">
             <mxRectangle x="473" y="366" width="194" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
